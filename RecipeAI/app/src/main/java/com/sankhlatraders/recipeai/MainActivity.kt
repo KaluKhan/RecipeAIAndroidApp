@@ -26,7 +26,7 @@ import com.sankhlatraders.recipeai.ui.navigation.AppNavigation
 import com.sankhlatraders.recipeai.ui.screens.splash.SplashScreen
 import com.sankhlatraders.recipeai.ui.theme.DarkBackground
 import com.sankhlatraders.recipeai.ui.theme.RecipeAITheme
-
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
