@@ -149,8 +149,8 @@ fun AiAgentScreen(
                 Column(modifier = Modifier.weight(1f)) {
                     // Context bar
                     AiResultsContextBar(
-                        locationContex = state.locationContext,
-                        recipeCount = state.recipes.size,
+                        locationContext = state.locationContext,
+                        resultCount = state.recipes.size,
                         onNewSearch = viewModel::reset
                     )
                     //Staggered grid
