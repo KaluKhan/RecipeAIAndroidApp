@@ -1,0 +1,2 @@
+-keep class com.sankhlatraders.recipeai.app.data.** { *; }
+-keepclassmembers class com.sankhlatraders.recipeai.app.data.** { *; }

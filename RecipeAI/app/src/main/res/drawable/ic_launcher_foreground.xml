@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--App Icon Foreground: Chef Hat with AI spark-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!--Chef hat body/brim-->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,68,L84,68,L84,78,Q84,82,80,82,L28,82,Q24,82,24,78 Z" />
+
+    <!--Chef hat dome-->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24,C38,24,27,34,27,47,C27,60,35,66,24,68,L84,68 C73,66 81,60 81,47 C81,34 70,24 54,24 Z" />
+
+    <!--Orange accent stripe on brim-->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M24,68,L84,68,L84,73 L24,73 Z" />
+
+    <!--AI Sparkle star top-right-->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M76,18 L78.5,25 L86,27.5 L78.5,30 L76,37 L73.5,30 L66,27.5 L73.5,25 Z" />
+
+    <!--Small spark dot-->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M83,40 L84,43 L87,44 L84,45 L83,48 L82,45 L79,44 L82,43 Z" />
+
+</vector>
